@@ -1,3 +1,5 @@
+cluster:
+  name: ${ES_CLUSTER_NAME}
 path:
   data: /data/data
   logs: /data/log
